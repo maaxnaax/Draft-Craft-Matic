@@ -5,6 +5,8 @@ TODO:
   - Withdraw should withdraw from bentobox, excluding the interest earne
   - Seperate Withdraw for profit
   - FrontEnd, click to create TEAM 
+
 Post comp TODO: 
   - Chainlink VRF
   - Team NFT graphics
+  - API to input realworld game scores
