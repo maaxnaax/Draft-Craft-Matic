@@ -4,7 +4,7 @@ TODO:
   - Deposited money should sit in sushi bentoBox and earn yield
   - Withdraw should withdraw from bentobox, excluding the interest earne
   - Seperate Withdraw for profit
-  - FrontEnd, click to create TEAM 
+  - FrontEnd, click to create TEAM:
       1. Random Number generator
       2. Build button to mint team
       3. Build button to generate team
