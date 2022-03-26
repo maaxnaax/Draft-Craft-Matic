@@ -1,4 +1,4 @@
-# Draft-Craft-Bianance-BSC-
+# Draft-Craft-Matic
 A fantasy Football draft game, with a crypto prize pool and distribution mechanics.  Similar to FIFA Fut Draft (https://www.futbin.com/draft-simulator), but instead minting TEAM NFTs which are tied to the real world performance of players on a per tournament basis.
 
 Order of Operations for Deployment:
